@@ -427,3 +427,28 @@ color:#000;}
 	max-height: 50%;
 	max-width: 50%;
 }
+.crd{
+	height: 100%;
+	width: 100%;
+}
+.team{
+	font-size: 5px;
+}
+.desi{
+	background-image: url(../img/dd.jpg);
+	background-repeat: no-repeat;
+	max-width: 95%;
+	max-height: 95%;
+	color: #AEFF00;
+	font-size: 20px;
+	object-fit: cover;
+}
+.nila{
+	background-image: url(../img/nila.jpg);
+	background-repeat: no-repeat;
+	width: 95%;
+	height: 95%;
+	color: #1a6600;	
+	font-size: 20px;
+	object-fit: cover;
+}
